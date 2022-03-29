@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_hu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hu
+  m_SharedData: {fileID: 11400000, guid: 2b656dd6bc8123549914afaf928dd88c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 386381545472
+    m_Localized: "j\xE1t\xE9k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435901263872
+    m_Localized: "be\xE1ll\xEDt\xE1sok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490645319680
+    m_Localized: "kil\xE9p\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1542075875328
+    m_Localized: karrier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1619230097408
+    m_Localized: "gyakorl\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1682249515008
+    m_Localized: vissza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1748498546688
+    m_Localized: vissza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1854551523328
+    m_Localized: "men\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821690253312
+    m_Localized: "aut\xF3k hangereje"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13663203393536
+    m_Localized: "ez csak egy dem\xF3p\xE1lya, f\u0151k\xE9nt az ir\xE1ny\xEDt\xE1sra,
+      ellenfelekre koncentr\xE1lva, ahogy ez a p\xE1lya min\u0151s\xE9g\xE9n is l\xE1that\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14287248719872
+    m_Localized: "kezd\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556945892540416
+    m_Localized: "ez az els\u0151 rendes p\xE1lya, lorem ipsum dolor sit amet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5087847998717952
+    m_Localized: "\xFCdv!\n\xE9n leszek a virtu\xE1lis seg\xEDt\u0151d a j\xE1t\xE9kban.\nhogy
+      hogy h\xEDvhatsz?\nvannak, akik \xFAgy neveznek, Tim.\nennyit r\xF3lam.\naz
+      els\u0151 p\xE1lya, melyet teljes\xEDtened kell, eg\xE9szen egyszer\u0171.\ngyorsul\xE1si
+      verseny.\ntudod, nyomod a g\xE1zt [W vagy \u2191] \xE9s m\xE9sz el\u0151re.\nte
+      vagy a fekete aut\xF3val, az ellenf\xE9l a k\xE9k.\nha els\u0151k\xE9nt \xE9rsz
+      c\xE9lba, nyert\xE9l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6105958570950656
+    m_Localized: "gratul\xE1lok, nyert\xE9l!\nne b\xEDzd el magad!\nahogy mondani
+      szokt\xE1k, egy majom is tudja nyomni a g\xE1zt.\na kih\xEDv\xE1s a kanyarokban
+      kezd\u0151dik.\nl\xE9pj tov\xE1bb a k\xF6vetkez\u0151 szintre!\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6107516155101184
+    m_Localized: "t\u0151led t\xF6bbet v\xE1rtam.\nhogy lehet elveszteni egy ilyen
+      versenyt?\nna mindegy.\n\xE9n a helyedben \xFAjrapr\xF3b\xE1ln\xE1m.\nde tov\xE1bb
+      is l\xE9phetsz, ha fel akarod adni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6108451354869760
+    m_Localized: "\xFAjra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6108528479731712
+    m_Localized: "tov\xE1bb"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873827116650496
+    m_Localized: "1: gyorsul\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873956271853568
+    m_Localized: '2: kanyarok'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874038899642368
+    m_Localized: "3: el\u0151z\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8065626606735360
+    m_Localized: "az el\u0151z\u0151 p\xE1ly\xE1n megtanultad, hogyan kell gyors\xEDtani.\nmost
+      kanyarodni fogsz [A-D vagy \u2190 \u2192].\n\xE9s persze f\xE9kezni [S vagy
+      \u2193].\nha r\xE1m hallgatsz, a piros vonalakn\xE1l kezdj f\xE9kezni.\n\xF3,
+      \xE9s ne menj le a p\xE1ly\xE1r\xF3l, mert kellemetlen meglepet\xE9sek \xE9rhetnek.\nmost
+      nem lesz ellenfeled.\na feladatod: tegy\xE9l meg h\xE1rom k\xF6rt a p\xE1ly\xE1n.\nha
+      v\xE9gezt\xE9l, tal\xE1lkozunk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9067213366038528
+    m_Localized: "m\xE1ris v\xE9gezt\xE9l?\ngratul\xE1lok!\nmost m\xE1r tudod, hogyan
+      kell kanyarodni.\nviszont a versenyz\xE9s m\xE9g csak most kezd\u0151dik.\nl\xE9pj
+      tov\xE1bb a k\xF6vetkez\u0151 szintre vagy gyakorolj m\xE9g!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071438179405824
+    m_Localized: "4: kanyarcs\xFAcspont"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071509176389632
+    m_Localized: "5: megm\xE9rettet\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9215940017852416
+    m_Localized: "6: z\xF6ld pokol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9393921524830208
+    m_Localized: "most m\xE1r kanyarodni \xE9s f\xE9kezni is tudsz.\nezen a p\xE1ly\xE1n
+      v\xE9gre rendesen versenyezhetsz.\nh\xE1rom k\xF6r alatt kell megel\u0151zn\xF6d
+      k\xE9t ellenfelet.\nlehet\u0151leg ne \xFCtk\xF6zz nekik.\na f\xE9kez\xE9si
+      javaslataimat tov\xE1bbra is l\xE1thatod.\nindulj!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9396256338677760
+    m_Localized: "most az egyszer megd\xEDcs\xE9rlek!\nb\xE1r n\xE9h\xE1ny kanyart
+      szebben is bevehett\xE9l volna.\na k\xF6vetkez\u0151 p\xE1ly\xE1n pont err\u0151l
+      tanulhatsz.\nl\xE9pj tov\xE1bb vagy gy\u0151zd le \xFAjra ezt a k\xE9t ellenfelet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9397826157613056
+    m_Localized: "erre nem sz\xE1m\xEDtottam.\nigaz\xE1b\xF3l de.\nna mindegy.\nszerintem
+      pr\xF3b\xE1ld \xFAjra.\nvagy ha nagyon nem megy, tov\xE1bb is l\xE9phetsz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10132502297608192
+    m_Localized: "ezen a p\xE1ly\xE1n a kanyarod\xE1sr\xF3l tanulhatsz.\na c\xE9l
+      az, hogy min\xE9l nagyobb \xEDvben kanyarodj.\n\xEDgy nem lassulsz le annyira
+      a kanyarokban.\nminden kanyarnak van egy kezdete.\nitt kezded elford\xEDtani
+      az aut\xF3t.\na kanyar cs\xFAcspontj\xE1n leszel a legk\xF6zelebb a bels\u0151
+      \xEDvhez.\na v\xE9g\xE9n pedig egyenesbe ford\xEDtod az aut\xF3t.\nezeket a
+      pontokat l\xE1thatod a p\xE1ly\xE1n.\ntegy\xE9l meg \xF6t k\xF6rt, mik\xF6zben
+      k\xF6veted a pontokat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10135103072272384
+    m_Localized: "most m\xE1r tudod, hogyan kanyarodj hat\xE9konyan.\nha tov\xE1bb
+      l\xE9psz, ugyanezen a p\xE1ly\xE1n versenyezhetsz.\nde maradhatsz itt is gyakorolni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10165153112948736
+    m_Localized: "ugyanaz a p\xE1lya, mint az el\u0151bb.\nnincs seg\xEDts\xE9g a
+      kanyarokban.\nnincs seg\xEDts\xE9g a f\xE9kpontokon.\nh\xE1rom ellenf\xE9l,
+      h\xE1rom k\xF6r.\nindulj."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10639214723534848
+    m_Localized: "\xFAgy t\u0171nik, el\xE9rted a c\xE9lodat.\nvagy legal\xE1bb az
+      eny\xE9met.\nna mindegy.\nmost m\xE1r k\xE9szen \xE1llsz a v\xE9gs\u0151 megm\xE9rettet\xE9sre.\nl\xE9pj
+      tov\xE1bb vagy maradj m\xE9g gyakorolni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10640773205266432
+    m_Localized: "ez most nem siker\xFClt.\nez sem.\ntudod, mi a k\xF6vetkez\u0151
+      p\xE1lya?\na v\xE9gs\u0151 megm\xE9rettet\xE9s.\nszerintem m\xE9g nem \xE1llsz
+      k\xE9szen.\nde ezt te is \xE9rzed.\nha gondolod, l\xE9pj tov\xE1bb.\nde azt
+      javaslom, maradj m\xE9g gyakorolni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11649961461092352
+    m_Localized: "tudod, mi\xE9rt h\xEDvj\xE1k z\xF6ld pokolnak ezt a p\xE1ly\xE1t?\npokolian
+      sokat kell kanyarodni rajta.\n\xE9s z\xF6ld a sz\xE9le.\naj\xE1nlom, hogy gyakorold
+      be a vonalvezet\xE9st.\nha \xFAgy \xE9rzed, k\xE9szen \xE1llsz, indulj."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11653430167277568
+    m_Localized: "nyert\xE9l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11653505593446400
+    m_Localized: "vesztett\xE9l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725394663772160
+    m_Localized: "gyorsul\xE1si verseny gyakorl\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725538834583552
+    m_Localized: "kanyaros p\xE1lya gyakorl\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725689296850944
+    m_Localized: "el\u0151z\xE9s p\xE1lya gyakorl\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725992956071936
+    m_Localized: "kanyarcs\xFAcspont p\xE1lya gyakorl\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11726131884003328
+    m_Localized: "z\xF6ld pokol gyakorl\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031366548492288
+    m_Localized: "gyorsul\xE1si verseny gyakorl\xE1s v\xE9ge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031540901515264
+    m_Localized: "kanyaros p\xE1lya gyakorl\xE1s v\xE9ge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031699332960256
+    m_Localized: "el\u0151z\xE9s p\xE1lya gyakorl\xE1s v\xE9ge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031834616041472
+    m_Localized: "kanyarcs\xFAcspont p\xE1lya gyakorl\xE1s v\xE9ge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12032002027491328
+    m_Localized: "z\xF6ld pokol gyakorl\xE1s v\xE9ge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12382909160296448
+    m_Localized: grafika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12389183314792448
+    m_Localized: "teljes k\xE9perny\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12397330511237120
+    m_Localized: "k\xE9perny\u0151felbont\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12401967817625600
+    m_Localized: nyelv
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

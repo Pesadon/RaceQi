@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 2b656dd6bc8123549914afaf928dd88c
+  m_Entries:
+  - m_Id: 386381545472
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435901263872
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490645319680
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1542075875328
+    m_Key: Career
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1619230097408
+    m_Key: Practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1682249515008
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1748498546688
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1854551523328
+    m_Key: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821690253312
+    m_Key: CarVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13663203393536
+    m_Key: DemoTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14287248719872
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556945892540416
+    m_Key: FirstTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5087847998717952
+    m_Key: DragTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6105958570950656
+    m_Key: WinDragRace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6107516155101184
+    m_Key: LoseDragRace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6108451354869760
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6108528479731712
+    m_Key: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873827116650496
+    m_Key: Track1dragrace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873956271853568
+    m_Key: Track2corners
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874038899642368
+    m_Key: Track3overtake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8065626606735360
+    m_Key: CornersTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9067213366038528
+    m_Key: EndCornersTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071438179405824
+    m_Key: Track4apex
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071509176389632
+    m_Key: Track5challenge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9215940017852416
+    m_Key: Track6greenhell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9393921524830208
+    m_Key: OvertakeTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9396256338677760
+    m_Key: OvertakeTrackWin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9397826157613056
+    m_Key: OvertakeTrackLose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10132502297608192
+    m_Key: ApexTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10135103072272384
+    m_Key: EndApexTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10165153112948736
+    m_Key: ChallengeTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10639214723534848
+    m_Key: ChallengeTrackWin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10640773205266432
+    m_Key: ChallengeTrackLose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11649961461092352
+    m_Key: GreenHellTrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11653430167277568
+    m_Key: GreenHellTrackWin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11653505593446400
+    m_Key: GreenHellLose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725394663772160
+    m_Key: DragRacePractice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725538834583552
+    m_Key: CornersPractice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725689296850944
+    m_Key: OvertakePractice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725992956071936
+    m_Key: ApexPractice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11726131884003328
+    m_Key: GreenHellPractice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031366548492288
+    m_Key: DragRacePracticeEnd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031540901515264
+    m_Key: CornersPracticeEnd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031699332960256
+    m_Key: OvertakePracticeEnd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031834616041472
+    m_Key: ApexPracticeEnd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12032002027491328
+    m_Key: GreenHellPracticeEnd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12382909160296448
+    m_Key: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12389183314792448
+    m_Key: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12397330511237120
+    m_Key: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12401967817625600
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1645526533058

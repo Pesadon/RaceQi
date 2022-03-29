@@ -1,0 +1,368 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2b656dd6bc8123549914afaf928dd88c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 386381545472
+    m_Localized: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435901263872
+    m_Localized: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490645319680
+    m_Localized: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1542075875328
+    m_Localized: career
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1619230097408
+    m_Localized: practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1682249515008
+    m_Localized: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1748498546688
+    m_Localized: resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1854551523328
+    m_Localized: menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821690253312
+    m_Localized: car volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13663203393536
+    m_Localized: it is only a demo track, mainly focused to controls and opponents,
+      as the track's quality shows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14287248719872
+    m_Localized: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556945892540416
+    m_Localized: this is the first normal track, lorem ipsum dolor sit amet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5087847998717952
+    m_Localized: "hello!\ni'll be your virtual assistant in the game.\nhow can you
+      call me?\nthere're some who call me Tim.\nthat's enough about me.\nthe first
+      track you have to race at is quite simple.\ndrag race.\nyou know, push the
+      gas [W or \u2191] and go forward.\nyou control the black car, the opponent
+      drives the blue.\nif you finish first, you win."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6105958570950656
+    m_Localized: 'congrats, you won!
+
+      don''t get overconfident!
+
+      as they
+      say, even a monkey can push the gas.
+
+      challange starts at corners.
+
+      advance
+      to the next level!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6107516155101184
+    m_Localized: 'i expected more from you.
+
+      how can you lose such an easy
+      race?
+
+      whatever.
+
+      i would try again in your place.
+
+      but you
+      can advance if you want to give it up.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6108451354869760
+    m_Localized: restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6108528479731712
+    m_Localized: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873827116650496
+    m_Localized: '1: drag race'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873956271853568
+    m_Localized: '2: corners'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874038899642368
+    m_Localized: '3: overtake'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8065626606735360
+    m_Localized: "on the previous track, you learned how to speed up.\nnow you're
+      gonna turn [A-D or \u2190 \u2192].\nand brake, of course [S or \u2193].\nif
+      you listen to me, start braking at the red lines.\noh, and don't leave the
+      track, because there may be some unpleasant surprises.\nyou won't have opponents
+      at this time.\nyour task: make three laps on the track.\nwe'll meet when you're
+      done."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9067213366038528
+    m_Localized: 'are you done yet?
+
+      congrats!
+
+      now you know how to turn.
+
+      although
+      racing begins just now.
+
+      advance to the next level or stay here to practice!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071438179405824
+    m_Localized: '4: apex'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071509176389632
+    m_Localized: '5: challenge'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9215940017852416
+    m_Localized: '6: green hell'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9393921524830208
+    m_Localized: 'now you know how to turn and brake.
+
+      on this track, you can
+      actually race, finally.
+
+      you have to overtake two opponents in three
+      laps.
+
+      preferably don''t collide with them.
+
+      you can still see
+      my braking point suggestions.
+
+      let''s go!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9396256338677760
+    m_Localized: 'now i praise you for once!
+
+      although you could''ve taken
+      a few corners nicer.
+
+      you can learn about it more on the next track.
+
+      advance
+      to the next level or win over these opponents again.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9397826157613056
+    m_Localized: 'i didn''t expect this.
+
+      actually i did.
+
+      whatever.
+
+      i
+      think you should try it again.
+
+      or if you can''t win at all, you can
+      advance to the next level.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10132502297608192
+    m_Localized: 'at this track, you''ll learn about cornering.
+
+      the goal is
+      to make the bend as wide as possible.
+
+      so you won''t slow down so much.
+
+      every
+      corner has an entryy point.
+
+      that''s where you start turning.
+
+      the
+      apex is the nearest point to the inner bend.
+
+      at the exit point you turn
+      the car straight.
+
+      you can see these points at the track.
+
+      try
+      to follow them through five laps.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10135103072272384
+    m_Localized: 'now you know, how to turn efficiently.
+
+      if you advance to
+      the next level, you can compete at this track.
+
+      but you can also stay
+      here and practice.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10165153112948736
+    m_Localized: 'same track as before.
+
+      no help at the corners.
+
+      no
+      help at the braking points.
+
+      three opponents, three laps.
+
+      let''s
+      go.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10639214723534848
+    m_Localized: 'it seems like you''ve reached your goal.
+
+      or mine, at leats.
+
+      whatever.
+
+      now
+      you''re ready for the final challenge.
+
+      advance to next level or stay
+      here to practice.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10640773205266432
+    m_Localized: 'you failed it now.
+
+      not even now.
+
+      do you know which
+      track is next?
+
+      the final challenge.
+
+      i don''t think you''re ready
+      for that.
+
+      but you can feel it, too.
+
+      advance to the next level
+      if you want to.
+
+      but my advice is to stay here and practice.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11649961461092352
+    m_Localized: 'do you know, why this track is called green hell?
+
+      it has
+      a hell of a lot of corners.
+
+      and its edge is green.
+
+      i recommend
+      you to practice the layout.
+
+      if you feel ready, let''s go.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11653430167277568
+    m_Localized: you won.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11653505593446400
+    m_Localized: you lost.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725394663772160
+    m_Localized: drag race
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725538834583552
+    m_Localized: corners track practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725689296850944
+    m_Localized: overtake track practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11725992956071936
+    m_Localized: apex track practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11726131884003328
+    m_Localized: green hell practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031366548492288
+    m_Localized: drag race end of practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031540901515264
+    m_Localized: corners track end of practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031699332960256
+    m_Localized: overtake track end of practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12031834616041472
+    m_Localized: apex track end of practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12032002027491328
+    m_Localized: green hell end of practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12382909160296448
+    m_Localized: graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12389183314792448
+    m_Localized: fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12397330511237120
+    m_Localized: resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12401967817625600
+    m_Localized: language
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

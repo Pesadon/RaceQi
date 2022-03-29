@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 30d7290f3648d0443a38cae91a9b64a8
+  - enabled: 1
+    path: Assets/Scenes/1_DragTrack.unity
+    guid: fbadb3c21eebe6945b567b6545ef0374
+  - enabled: 1
+    path: Assets/Scenes/2_Corners.unity
+    guid: 4afb6ececb773954189045ed01c74284
+  - enabled: 1
+    path: Assets/Scenes/3_Overtake.unity
+    guid: a63b3ac01639472458be508e44cae169
+  - enabled: 1
+    path: Assets/Scenes/4_Apex.unity
+    guid: 5f51e39606db8a546a70cab8dda98ef9
+  - enabled: 1
+    path: Assets/Scenes/5_Challenge.unity
+    guid: 8c3c1199e1e449e4cb8dd2c08fba2e2c
+  - enabled: 1
+    path: Assets/Scenes/6_GreenHell.unity
+    guid: 28e7ee8bab4fae14ba66eb9c02a3baa1
+  - enabled: 1
+    path: Assets/Scenes/1_DragTrack_practice.unity
+    guid: 024427fc0f275824390524ddc4dc831d
+  - enabled: 1
+    path: Assets/Scenes/2_Corners_practice.unity
+    guid: 1bbf4b0124ae85348a02492a679c5b29
+  - enabled: 1
+    path: Assets/Scenes/3_Overtake_practice.unity
+    guid: d7949fdea21fbfd4a9460184df86f555
+  - enabled: 1
+    path: Assets/Scenes/4_Apex_practice.unity
+    guid: be610f35f9f8d2349a2bf0483ff536ae
+  - enabled: 1
+    path: Assets/Scenes/6_GreenHell_practice.unity
+    guid: eb1282927db262347bcde700fc20e033
+  m_configObjects:
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 742f6318dffb7fc44b96cac720dc3c43, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 01cd03e113b623341b7e51ae19d28d26, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 69603edd2dfb1ae41bfa7f5254dcd543, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: cd3007d1a07a3274ab55c33bc2773688, type: 2}
