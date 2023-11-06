@@ -1,2 +1,2 @@
 # RaceQi
-Game made as a final thesis for my technician course 
+Videoame made in Unity as a thesis for my technician course 
